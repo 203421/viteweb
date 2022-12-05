@@ -1,0 +1,13 @@
+footer{
+    position:static;
+    bottom: 0;
+    width: 99.5%;
+    background-color: black;
+    border-style: solid;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+}
+footer p{
+    color: white;
+}
